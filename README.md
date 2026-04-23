@@ -1,4 +1,4 @@
-# 🤖 JobMatch AI — Resume Screening Agent
+# SMARTHIRE — Resume Screening Agent
 
 > Built for Pronix IT Solutions | Agentic AI Fresher Assessment  
 > Stack: LangGraph + LangChain + Groq (LLaMA 3.3) + Tavily + SQLite + Streamlit
